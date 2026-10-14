@@ -1,6 +1,6 @@
 # Regenera_Project
 
-O notebook aqui lê o arquivo RegeneraRS_merge_limpo(2).xlsx e produz gráficos correspondentes aos indicadores do Relatório Anual RegeneraRS, julho de 2024 a julho de 2025. As figuras do relatório foram conferidas nas páginas 13, 25–28, 48 e 51.
+O notebook "RegeneraRS_graficos_estatisticas.ipynb" lê o arquivo RegeneraRS_merge_limpo(2).xlsx e produz gráficos correspondentes aos indicadores do Relatório Anual RegeneraRS, julho de 2024 a julho de 2025. As figuras do relatório foram conferidas nas páginas 13, 25–28, 48 e 51.
 
 Os cálculos usam os dados da planilha. Os números transcritos do PDF aparecem com a indicação Relatório 2025. O Excel não informa uma data de corte para os valores operacionais; portanto, os gráficos não são apresentados como resultados de um ano específico nem como uma evolução em relação a 2025.
 
